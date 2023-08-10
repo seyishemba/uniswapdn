@@ -10,7 +10,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "8.3.7",
+  "version": "9.0.0",
   "files": [
     "dist/*"
   ],
@@ -26,10 +26,10 @@
   "dependencies": {
     "@walletconnect/ethereum-provider": "^2.8.6",
     "@walletconnect/modal": "^2.5.9",
-    "@web3-react/types": "^8.2.0",
+    "@web3-react/types": "^9.0.0",
     "eventemitter3": "^4.0.7"
   },
   "devDependencies": {
-    "@web3-react/store": "^8.2.0"
+    "@web3-react/store": "^9.0.0"
   }
 }
